@@ -175,6 +175,7 @@ body {
 /* Main Navigation styling*/
 header {
   width: 100%;
+  background-color: black;
 }
 
 .desktop-navigation {
