@@ -178,7 +178,7 @@ header {
 }
 
 .desktop-navigation {
-  background-image: url("../images/header-bg.jpg");
+  background-color: crimson;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
